@@ -1,3 +1,2 @@
 hello,new data to clone
-new edit for continuous integration
-hello
+new edit for continuous
